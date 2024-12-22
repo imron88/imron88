@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js,PostgreSQL,etc**
 
-- 💬 Ask me about **reactJs,nodeJs,GSAP,JavaScript,expressJs**
+- 💬 Ask me about **reactJs,nodeJs,GSAP,JavaScript,expressJs,mongoDB,etc**
 
 - 📫 How to reach me **ronakpraja340@gmail.com**
 
