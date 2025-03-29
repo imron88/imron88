@@ -10,8 +10,8 @@
 
 ## 🌟 About Me
 
-- 🌱 Currently learning **Next.js, PostgreSQL, and more**
-- 💬 Ask me about **React.js, Node.js, GSAP, JavaScript, Express.js, MongoDB**
+- 🌱 Currently learning **TurboRepo, cybersec and more**
+- 💬 Ask me about **React.js, Node.js, NextJs, JavaScript, Express.js, MongoDB**
 - 📫 Reach me at **ronakpraja340@gmail.com**
 
 ## 🏆 GitHub Trophies
