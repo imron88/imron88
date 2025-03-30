@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-- 🌱 Currently learning **TurboRepo, cybersec and more**
+- 🌱 Currently learning **TurboRepo,web app pentest and more**
 - 💬 Ask me about **React.js, Node.js, NextJs, JavaScript, Express.js, MongoDB**
 - 📫 Reach me at **ronakpraja340@gmail.com**
 
