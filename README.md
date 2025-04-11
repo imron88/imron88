@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" width="100%" height=350>
+  <img src="[https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgwOGlrZXU2amYwNjBjcGJsa2Q3YXl1a2VpbzU4ZmswcWN0c2xpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif)" width="100%" height=350>
   
   # 👋 Hey there! I'm Ronak
   ## 🚀 Passionate Full Stack Developer from India
