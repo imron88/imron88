@@ -87,10 +87,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronak282005&show_icons=true&locale=en&layout=compact&theme=radical" alt="ronak282005" />
+</div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=ronak282005&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ronak282005's GitHub streak" />
 </div>
-<!-- <div align="center">
-</div> -->
 
 ## 🤝 Connect with Me
 
