@@ -4,7 +4,7 @@
   # 👋 Hey there! I'm Ronak
   ## 🚀 Passionate Full Stack Developer from India
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ronak-7986452ba)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/imron88)
   ![Profile Views](https://komarev.com/ghpvc/?username=ronak282005&color=brightgreen&style=for-the-badge)
 </div>
 
