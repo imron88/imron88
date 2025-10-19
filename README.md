@@ -95,7 +95,7 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/ronak-7986452ba" target="_blank">
+  <a href="https://linkedin.com/in/imron88" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </div>
