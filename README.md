@@ -5,7 +5,7 @@
   ## 🚀 Passionate Full Stack Developer from India
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/imron88)
-  ![Profile Views](https://komarev.com/ghpvc/?username=ronak282005&color=brightgreen&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=imron88&color=brightgreen&style=for-the-badge)
 </div>
  
 ## 🌟 About Me
@@ -19,8 +19,8 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=ronak282005&theme=nord&column=4&margin-w=10&margin-h=10" 
-      alt="ronak282005 GitHub Trophies" 
+      src="https://github-profile-trophy.vercel.app/?username=imron88&theme=nord&column=4&margin-w=10&margin-h=10" 
+      alt="imron88 GitHub Trophies" 
       width="80%"
     />
   </a>
@@ -86,10 +86,10 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronak282005&show_icons=true&locale=en&layout=compact&theme=radical" alt="ronak282005" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imron88&show_icons=true&locale=en&layout=compact&theme=radical" alt="imron88" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ronak282005&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ronak282005's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=imron88&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="imron88's GitHub streak" />
 </div>
 
 ## 🤝 Connect with Me
