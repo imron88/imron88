@@ -5,7 +5,7 @@
   ## 🚀 Passionate Full Stack Developer from India
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/imron88)
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ronak282005color=brightgreen&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=imron88color=brightgreen&style=for-the-badge)
 </div>
  
 ## 🌟 About Me
