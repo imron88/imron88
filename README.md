@@ -51,7 +51,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/>
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma" width="40" height="40"/>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" title="Next.js" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" width="40" height="40"/>
         </div>
       </td>
     </tr>
